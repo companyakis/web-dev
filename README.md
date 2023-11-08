@@ -6,6 +6,9 @@ https://github.com/companyakis/flutter-101
 Dart 2023:
 https://github.com/companyakis/dart-2023
 
+Body Mass Index Sample Project:
+https://github.com/companyakis/flutter-bodymass
+
 Flutter Widgets (Not ready!):
 https://github.com/companyakis/flutter-widgets
 
