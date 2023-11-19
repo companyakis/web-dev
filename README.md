@@ -3,7 +3,7 @@
 Dart 2023:
 https://github.com/companyakis/dart-2023
 
-Flutter Design and Widgets:
+Flutter Design:
 https://github.com/companyakis/flutter-design-widgets
 
 Flutter 101:
