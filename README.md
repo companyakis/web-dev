@@ -3,6 +3,9 @@
 Flutter Design and Widgets:
 https://github.com/companyakis/flutter-design-widgets
 
+Flutter Mini Projects:
+https://github.com/companyakis/flutter-mini-projects
+
 Dart 2023:
 https://github.com/companyakis/dart-2023
 
