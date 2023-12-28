@@ -3,8 +3,8 @@
 Flutter Bootcamp:
 https://github.com/companyakis/flutter-bootcamp
  
-Flutter Design and Widgets:
-https://github.com/companyakis/flutter-design-widgets
+Flutter Step by Step:
+https://github.com/companyakis/flutter-step-by-step
 
 Flutter Mini Projects:
 https://github.com/companyakis/flutter-mini-projects
