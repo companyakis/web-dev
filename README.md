@@ -6,8 +6,8 @@ https://github.com/companyakis/flutter-step-by-step
 Flutter Bootcamp:
 https://github.com/companyakis/flutter-bootcamp
  
-Flutter Mini Projects:
-https://github.com/companyakis/flutter-mini-projects
+Flutter Projects:
+https://github.com/companyakis/flutter-projects
 
 Dart 2023:
 https://github.com/companyakis/dart-2023
