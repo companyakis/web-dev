@@ -1,10 +1,10 @@
 # Dart and Flutter (Mobile App, Game, Web3 Daaps)
 
-Flutter Projects:
-https://github.com/companyakis/flutter-projects
-
 Flutter Step by Step:
 https://github.com/companyakis/flutter-step-by-step
+
+Flutter Projects:
+https://github.com/companyakis/flutter-projects
 
 Flutter Bootcamp:
 https://github.com/companyakis/flutter-bootcamp
