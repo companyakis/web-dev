@@ -17,6 +17,3 @@ https://github.com/companyakis/dart-2023
 
 Flutter 101:
 https://github.com/companyakis/flutter-101
-
-Flutter ToDo Sample Project:
-https://github.com/companyakis/flutter-todo
