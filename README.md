@@ -9,6 +9,9 @@ https://github.com/companyakis/flutter-projects
 Flutter State Management:
 https://github.com/companyakis/flutter-state-management
 
+Flutter Location Applications:
+https://github.com/companyakis/flutter-location
+
 Flutter Bootcamp:
 https://github.com/companyakis/flutter-bootcamp
  
