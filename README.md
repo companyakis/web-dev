@@ -1,13 +1,10 @@
 # Dart and Flutter (Mobile App, Game, Web3 Daaps)
 
-Flutter 2024 in Two Weeks (Wait):
-https://github.com/companyakis/flutter-two-weeks
+Flutter Projects:
+https://github.com/companyakis/flutter-projects
 
 Flutter Step by Step:
 https://github.com/companyakis/flutter-step-by-step
-
-Flutter Projects:
-https://github.com/companyakis/flutter-projects
 
 Flutter State Management:
 https://github.com/companyakis/flutter-state-management
