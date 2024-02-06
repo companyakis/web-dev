@@ -6,6 +6,9 @@ https://github.com/companyakis/flutter-projects
 Flutter Step by Step:
 https://github.com/companyakis/flutter-step-by-step
 
+Dart OOP Basics:
+https://github.com/companyakis/dart-oop
+
 Flutter State Management:
 https://github.com/companyakis/flutter-state-management
 
