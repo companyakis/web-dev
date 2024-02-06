@@ -1,4 +1,7 @@
-# Dart and Flutter (Mobile App, Game, Web3 Daaps)
+# Dart and Flutter
+
+Flutter Bootcamp 2024:
+https://github.com/companyakis/flutter-bootcamp-2024
 
 Flutter Projects:
 https://github.com/companyakis/flutter-projects
@@ -15,9 +18,6 @@ https://github.com/companyakis/flutter-state-management
 Flutter Location Applications:
 https://github.com/companyakis/flutter-location
 
-Flutter Bootcamp:
-https://github.com/companyakis/flutter-bootcamp
- 
 Dart 2023:
 https://github.com/companyakis/dart-2023
 
