@@ -7,7 +7,7 @@ Flutter Step by Step:
 https://github.com/companyakis/flutter-step-by-step
 
 Dart OOP Basics:
-https://github.com/companyakis/dart-oop
+https://github.com/companyakis/dart-oop-basics
 
 Flutter State Management:
 https://github.com/companyakis/flutter-state-management
