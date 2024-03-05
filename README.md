@@ -9,8 +9,17 @@ https://github.com/companyakis/flutter-projects
 Flutter Step by Step:
 https://github.com/companyakis/flutter-step-by-step
 
+Svelte JS:
+https://github.com/companyakis/svelte2024
+
 Dart OOP Basics:
 https://github.com/companyakis/dart-oop-basics
+
+Bootstrap:
+https://github.com/companyakis/bootstrap2024
+
+HTML:
+https://github.com/companyakis/html
 
 Flutter State Management:
 https://github.com/companyakis/flutter-state-management
