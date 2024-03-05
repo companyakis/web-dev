@@ -12,6 +12,9 @@ https://github.com/companyakis/flutter-step-by-step
 Svelte JS:
 https://github.com/companyakis/svelte2024
 
+PyScript:
+https://github.com/companyakis/pyscript
+
 Dart OOP Basics:
 https://github.com/companyakis/dart-oop-basics
 
