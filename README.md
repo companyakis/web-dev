@@ -1,4 +1,4 @@
-# Dart and Flutter
+# Mobile and Web Development
 
 Flutter Bootcamp 2024:
 https://github.com/companyakis/flutter-bootcamp-2024
