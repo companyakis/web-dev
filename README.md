@@ -1,5 +1,8 @@
 # Mobile and Web Development
 
+Flutter Bootcamp 2024:
+https://github.com/companyakis/flutter-bootcamp-2024
+
 Dart Bootcamp 2024:
 https://github.com/companyakis/dart-bootcamp-2024
 
