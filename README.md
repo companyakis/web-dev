@@ -12,8 +12,8 @@ https://github.com/companyakis/flutter-projects
 Flutter Step by Step:
 https://github.com/companyakis/flutter-step-by-step
 
-Dart OOP Basics:
-https://github.com/companyakis/dart-oop-basics
+Dart OOP:
+https://github.com/companyakis/dart-oop-2024
 
 Svelte JS:
 https://github.com/companyakis/svelte2024
