@@ -1,7 +1,7 @@
 # Mobile and Web Development
 
-Flutter Bootcamp 2024:
-https://github.com/companyakis/flutter-bootcamp-2024
+Dart Bootcamp 2024:
+https://github.com/companyakis/dart-bootcamp-2024
 
 Flutter Projects:
 https://github.com/companyakis/flutter-projects
@@ -9,14 +9,14 @@ https://github.com/companyakis/flutter-projects
 Flutter Step by Step:
 https://github.com/companyakis/flutter-step-by-step
 
+Dart OOP Basics:
+https://github.com/companyakis/dart-oop-basics
+
 Svelte JS:
 https://github.com/companyakis/svelte2024
 
 PyScript:
 https://github.com/companyakis/pyscript
-
-Dart OOP Basics:
-https://github.com/companyakis/dart-oop-basics
 
 Bootstrap:
 https://github.com/companyakis/bootstrap2024
