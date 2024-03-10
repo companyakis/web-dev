@@ -6,6 +6,9 @@ https://github.com/companyakis/flutter-bootcamp-2024
 Dart Bootcamp 2024:
 https://github.com/companyakis/dart-bootcamp-2024
 
+Vue JS:
+https://github.com/companyakis/vue
+
 Flutter Projects:
 https://github.com/companyakis/flutter-projects
 
