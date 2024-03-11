@@ -12,6 +12,9 @@ https://github.com/companyakis/vue
 Flutter Projects:
 https://github.com/companyakis/flutter-projects
 
+Python FastAPI 101:
+https://github.com/companyakis/python-fastapi101
+
 Flutter Step by Step:
 https://github.com/companyakis/flutter-step-by-step
 
@@ -20,9 +23,6 @@ https://github.com/companyakis/dart-oop-2024
 
 CSS Basics:
 https://github.com/companyakis/css-basics
-
-PyScript:
-https://github.com/companyakis/pyscript
 
 Bootstrap:
 https://github.com/companyakis/bootstrap2024
