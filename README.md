@@ -12,20 +12,20 @@ https://github.com/companyakis/flutter-projects
 Vue Projects:
 https://github.com/companyakis/vue-projects
 
+Flutter Step by Step:
+https://github.com/companyakis/flutter-step-by-step
+
 Flutter Bootcamp 2024:
 https://github.com/companyakis/flutter-bootcamp-2024
 
 Python FastAPI 101:
 https://github.com/companyakis/python-fastapi101
 
-Flutter Step by Step:
-https://github.com/companyakis/flutter-step-by-step
+CSS:
+https://github.com/companyakis/css-design
 
 Dart OOP:
 https://github.com/companyakis/dart-oop-2024
-
-CSS Basics:
-https://github.com/companyakis/css-basics
 
 Bootstrap:
 https://github.com/companyakis/bootstrap2024
