@@ -3,14 +3,11 @@
 Dart Bootcamp 2024:
 https://github.com/companyakis/dart-bootcamp-2024
 
-Vue JS:
+Vue JS Options API:
 https://github.com/companyakis/vue
 
 Flutter Projects:
 https://github.com/companyakis/flutter-projects
-
-Vue JS Options API:
-https://github.com/companyakis/vue-options-api
 
 Flutter Bootcamp 2024:
 https://github.com/companyakis/flutter-bootcamp-2024
