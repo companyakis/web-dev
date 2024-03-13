@@ -9,6 +9,9 @@ https://github.com/companyakis/vue
 Flutter Projects:
 https://github.com/companyakis/flutter-projects
 
+Vue Projects:
+https://github.com/companyakis/vue-projects
+
 Flutter Bootcamp 2024:
 https://github.com/companyakis/flutter-bootcamp-2024
 
