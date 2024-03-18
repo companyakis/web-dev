@@ -9,9 +9,6 @@ https://github.com/companyakis/flutter-bootcamp-2024
 Vue JS Options API:
 https://github.com/companyakis/vue
 
-Flutter State Management:
-https://github.com/companyakis/flutter-state-management
-
 Bootstrap 5:
 https://github.com/companyakis/bootstrapfive
 
@@ -44,3 +41,6 @@ https://github.com/companyakis/dart-2023
 
 Flutter 101:
 https://github.com/companyakis/flutter-101
+
+Flutter State Management:
+https://github.com/companyakis/flutter-state-management
