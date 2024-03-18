@@ -6,6 +6,9 @@ https://github.com/companyakis/dart-bootcamp-2024
 Vue JS Options API:
 https://github.com/companyakis/vue
 
+Flutter State Management:
+https://github.com/companyakis/flutter-state-management
+
 Flutter Projects:
 https://github.com/companyakis/flutter-projects
 
@@ -32,9 +35,6 @@ https://github.com/companyakis/bootstrap2024
 
 HTML:
 https://github.com/companyakis/html
-
-Flutter State Management:
-https://github.com/companyakis/flutter-state-management
 
 Flutter Location Applications:
 https://github.com/companyakis/flutter-location
