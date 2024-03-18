@@ -9,6 +9,9 @@ https://github.com/companyakis/vue
 Flutter State Management:
 https://github.com/companyakis/flutter-state-management
 
+Bootstrap:
+https://github.com/companyakis/bootstrap2024
+
 Flutter Projects:
 https://github.com/companyakis/flutter-projects
 
@@ -24,14 +27,8 @@ https://github.com/companyakis/flutter-bootcamp-2024
 Python FastAPI 101:
 https://github.com/companyakis/python-fastapi101
 
-CSS:
-https://github.com/companyakis/css-design
-
 Dart OOP:
 https://github.com/companyakis/dart-oop-2024
-
-Bootstrap:
-https://github.com/companyakis/bootstrap2024
 
 HTML:
 https://github.com/companyakis/html
