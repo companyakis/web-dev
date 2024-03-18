@@ -3,6 +3,9 @@
 Dart Bootcamp 2024:
 https://github.com/companyakis/dart-bootcamp-2024
 
+Flutter Bootcamp 2024:
+https://github.com/companyakis/flutter-bootcamp-2024
+
 Vue JS Options API:
 https://github.com/companyakis/vue
 
@@ -23,9 +26,6 @@ https://github.com/companyakis/vue-projects
 
 Flutter Step by Step:
 https://github.com/companyakis/flutter-step-by-step
-
-Flutter Bootcamp 2024:
-https://github.com/companyakis/flutter-bootcamp-2024
 
 Python FastAPI 101:
 https://github.com/companyakis/python-fastapi101
