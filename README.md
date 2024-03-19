@@ -6,20 +6,11 @@ https://github.com/companyakis/dart-bootcamp-2024
 Flutter Bootcamp 2024:
 https://github.com/companyakis/flutter-bootcamp-2024
 
-Vue JS Options API:
-https://github.com/companyakis/vue
-
-Bootstrap 5:
-https://github.com/companyakis/bootstrapfive
-
-Bootstrap:
-https://github.com/companyakis/bootstrap2024
-
 Flutter Projects:
 https://github.com/companyakis/flutter-projects
 
-Vue Projects:
-https://github.com/companyakis/vue-projects
+Python Flet:
+https://github.com/companyakis/python-flets
 
 Flutter Step by Step:
 https://github.com/companyakis/flutter-step-by-step
@@ -44,3 +35,5 @@ https://github.com/companyakis/flutter-101
 
 Flutter State Management:
 https://github.com/companyakis/flutter-state-management
+
+
