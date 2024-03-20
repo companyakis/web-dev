@@ -9,11 +9,14 @@ https://github.com/companyakis/flutter-bootcamp-2024
 Flutter Projects:
 https://github.com/companyakis/flutter-projects
 
-Python Flet:
-https://github.com/companyakis/python-flets
-
 Flutter Step by Step:
 https://github.com/companyakis/flutter-step-by-step
+
+Bootstrap 5:
+https://github.com/companyakis/bootstrapfive
+
+Vue JS:
+https://github.com/companyakis/vue
 
 Python FastAPI 101:
 https://github.com/companyakis/python-fastapi101
