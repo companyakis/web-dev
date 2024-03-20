@@ -18,6 +18,9 @@ https://github.com/companyakis/bootstrapfive
 Vue JS:
 https://github.com/companyakis/vue
 
+Bootstrap 5 Projects:
+https://github.com/companyakis/bootstrapprojects
+
 Python FastAPI 101:
 https://github.com/companyakis/python-fastapi101
 
