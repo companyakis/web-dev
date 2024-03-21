@@ -13,7 +13,7 @@ Flutter Step by Step:
 https://github.com/companyakis/flutter-step-by-step
 
 Bootstrap 5:
-https://github.com/companyakis/bootstrapfive
+https://github.com/companyakis/bootstrap2024
 
 Vue JS:
 https://github.com/companyakis/vue
