@@ -12,14 +12,11 @@ https://github.com/companyakis/flutter-projects
 Flutter Step by Step:
 https://github.com/companyakis/flutter-step-by-step
 
-Bootstrap 5:
-https://github.com/companyakis/bootstrap2024
+Tailwind CSS:
+https://github.com/companyakis/tailwind
 
 Vue JS:
 https://github.com/companyakis/vue
-
-Bootstrap 5 Projects:
-https://github.com/companyakis/bootstrapprojects
 
 Python FastAPI 101:
 https://github.com/companyakis/python-fastapi101
