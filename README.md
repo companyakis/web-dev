@@ -12,8 +12,8 @@ https://github.com/companyakis/flutter-projects
 Flutter Step by Step:
 https://github.com/companyakis/flutter-step-by-step
 
-Tailwind CSS:
-https://github.com/companyakis/tailwind
+Tailwind CSS Beginner:
+https://github.com/companyakis/tailwind-beginner
 
 Vue JS:
 https://github.com/companyakis/vue
