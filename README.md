@@ -12,9 +12,6 @@ https://github.com/companyakis/flutter-step-by-step
 Flutter Bootcamp 2024:
 https://github.com/companyakis/flutter-bootcamp-2024
 
-Python Kivy Mobile App:
-https://github.com/companyakis/kivy-mobile
-
 Tailwind CSS Beginner:
 https://github.com/companyakis/tailwind-beginner
 
