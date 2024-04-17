@@ -12,9 +12,6 @@ https://github.com/companyakis/flutter-step-by-step
 Flutter Bootcamp 2024:
 https://github.com/companyakis/flutter-bootcamp-2024
 
-Flutter Small Apps:
-https://github.com/companyakis/flutter-small-applications
-
 Tailwind CSS Beginner:
 https://github.com/companyakis/tailwind-beginner
 
