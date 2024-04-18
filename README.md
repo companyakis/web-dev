@@ -15,9 +15,6 @@ https://github.com/companyakis/flutter-bootcamp-2024
 Tailwind CSS Beginner:
 https://github.com/companyakis/tailwind-beginner
 
-Vue JS:
-https://github.com/companyakis/vue
-
 Python FastAPI 101:
 https://github.com/companyakis/python-fastapi101
 
@@ -27,16 +24,5 @@ https://github.com/companyakis/dart-oop-2024
 HTML:
 https://github.com/companyakis/html
 
-Flutter Location Applications:
-https://github.com/companyakis/flutter-location
-
-Dart 2023:
-https://github.com/companyakis/dart-2023
-
 Flutter 101:
 https://github.com/companyakis/flutter-101
-
-Flutter State Management:
-https://github.com/companyakis/flutter-state-management
-
-
