@@ -21,9 +21,6 @@ https://github.com/companyakis/tailwind-beginner
 Python FastAPI 101:
 https://github.com/companyakis/python-fastapi101
 
-Dart OOP:
-https://github.com/companyakis/dart-oop-2024
-
 HTML:
 https://github.com/companyakis/html
 
