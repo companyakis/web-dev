@@ -12,6 +12,9 @@ https://github.com/companyakis/flutter-step-by-step
 Flutter Bootcamp 2024:
 https://github.com/companyakis/flutter-bootcamp-2024
 
+Web Design:
+https://github.com/companyakis/html-css-js
+
 Kotlin 2024 (Mobile&Web3):
 https://github.com/companyakis/kotlin-2024
 
