@@ -12,6 +12,9 @@ https://github.com/companyakis/flutter-step-by-step
 Flutter Bootcamp 2024:
 https://github.com/companyakis/flutter-bootcamp-2024
 
+Alchemy University JS:
+https://github.com/companyakis/alchemy-js
+
 Web Design:
 https://github.com/companyakis/html-css-js
 
