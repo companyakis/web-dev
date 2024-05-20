@@ -12,14 +12,8 @@ https://github.com/companyakis/flutter-step-by-step
 Flutter Bootcamp 2024:
 https://github.com/companyakis/flutter-bootcamp-2024
 
-Alchemy University JS:
-https://github.com/companyakis/alchemy-js
-
 Web Design:
 https://github.com/companyakis/html-css-js
-
-Tailwind CSS Beginner:
-https://github.com/companyakis/tailwind-beginner
 
 Python FastAPI 101:
 https://github.com/companyakis/python-fastapi101
