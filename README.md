@@ -12,9 +12,6 @@ https://github.com/companyakis/dart-bootcamp-2024
 Flutter Projects:
 https://github.com/companyakis/flutter-projects
 
-Web Design:
-https://github.com/companyakis/web-design
-
 Python FastAPI 101:
 https://github.com/companyakis/python-fastapi101
 
