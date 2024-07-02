@@ -3,14 +3,14 @@
 Flutter Bootcamp 2024:
 https://github.com/companyakis/flutter-bootcamp-2024
 
-Learn Vue:
-https://github.com/companyakis/learn-vue
-
 Dart Bootcamp 2024:
 https://github.com/companyakis/dart-bootcamp-2024
 
 Flutter Projects:
 https://github.com/companyakis/flutter-projects
+
+Kotlin Multi Platform:
+https://github.com/companyakis/kkm
 
 Python FastAPI 101:
 https://github.com/companyakis/python-fastapi101
