@@ -9,14 +9,17 @@ https://github.com/companyakis/dart-bootcamp-2024
 Flutter Projects:
 https://github.com/companyakis/flutter-projects
 
-Kotlin Multi Platform:
-https://github.com/companyakis/kkm
-
-Python FastAPI 101:
-https://github.com/companyakis/python-fastapi101
+React:
+https://github.com/companyakis/react
 
 HTML:
 https://github.com/companyakis/html
 
 Flutter 101:
 https://github.com/companyakis/flutter-101
+
+Kotlin Multi Platform (2025):
+https://github.com/companyakis/kkm
+
+Python FastAPI 101:
+https://github.com/companyakis/python-fastapi101
