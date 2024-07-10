@@ -12,6 +12,9 @@ https://github.com/companyakis/flutter-projects
 React:
 https://github.com/companyakis/react
 
+Flask:
+https://github.com/companyakis/flask-web
+
 HTML:
 https://github.com/companyakis/html
 
@@ -21,5 +24,3 @@ https://github.com/companyakis/flutter-101
 Kotlin Multi Platform (2025):
 https://github.com/companyakis/kkm
 
-Python FastAPI 101:
-https://github.com/companyakis/python-fastapi101
