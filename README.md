@@ -12,9 +12,6 @@ https://github.com/companyakis/flutter-projects
 React:
 https://github.com/companyakis/react
 
-Flask:
-https://github.com/companyakis/flask-web
-
 HTML:
 https://github.com/companyakis/html
 
