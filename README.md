@@ -12,9 +12,6 @@ https://github.com/companyakis/flutter-projects
 React:
 https://github.com/companyakis/react
 
-CSS 101:
-https://github.com/companyakis/css
-
 HTML:
 https://github.com/companyakis/html
 
