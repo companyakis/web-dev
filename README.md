@@ -6,8 +6,8 @@ https://github.com/companyakis/flutter-bootcamp-2024
 React:
 https://github.com/companyakis/react
 
-Flask:
-https://github.com/companyakis/flasks
+Flask 101:
+https://github.com/companyakis/flasks101
 
 Bootstrap 5:
 https://github.com/companyakis/bootstrap5
