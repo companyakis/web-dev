@@ -3,14 +3,17 @@
 React:
 https://github.com/companyakis/react
 
-Django:
-https://github.com/companyakis/djangos
+PyQt5:
+https://github.com/companyakis/pyqt5
 
 Bootstrap 5:
 https://github.com/companyakis/bootstrap5
 
 HTML:
 https://github.com/companyakis/html
+
+Django (2025):
+https://github.com/companyakis/djangos
 
 Flutter Bootcamp 2024:
 https://github.com/companyakis/flutter-bootcamp-2024
