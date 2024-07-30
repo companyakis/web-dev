@@ -3,9 +3,6 @@
 React:
 https://github.com/companyakis/react
 
-Streamlit AI Apps:
-https://github.com/companyakis/streamlit
-
 Bootstrap 5:
 https://github.com/companyakis/bootstrap5
 
