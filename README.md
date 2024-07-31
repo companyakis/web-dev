@@ -9,11 +9,11 @@ https://github.com/companyakis/bootstrap5
 FastAPI:
 https://github.com/companyakis/fastapis
 
+Three JS:
+https://github.com/companyakis/three-js
+
 HTML:
 https://github.com/companyakis/html
-
-Django (2025):
-https://github.com/companyakis/djangos
 
 Flutter Bootcamp 2024:
 https://github.com/companyakis/flutter-bootcamp-2024
