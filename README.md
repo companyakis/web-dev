@@ -3,9 +3,6 @@
 React:
 https://github.com/companyakis/react
 
-Bootstrap 5:
-https://github.com/companyakis/bootstrap5
-
 FastAPI:
 https://github.com/companyakis/fastapis
 
