@@ -6,8 +6,8 @@ https://github.com/companyakis/react
 FastAPI:
 https://github.com/companyakis/fastapis
 
-JavaScript Algorithms and Data Structures:
-https://github.com/companyakis/js-algorithms-data-structures
+Alchemy University Learn JavaScript:
+https://github.com/companyakis/alchemy-javascript
 
 Three JS:
 https://github.com/companyakis/three-js
