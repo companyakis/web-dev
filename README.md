@@ -6,12 +6,6 @@ https://github.com/companyakis/react
 FastAPI:
 https://github.com/companyakis/fastapis
 
-Alchemy University Learn JavaScript:
-https://github.com/companyakis/alchemy-javascript
-
-Three JS:
-https://github.com/companyakis/three-js
-
 HTML:
 https://github.com/companyakis/html
 
