@@ -1,7 +1,7 @@
 # Development
 
-Flasks:
-https://github.com/companyakis/flasks
+React:
+https://github.com/companyakis/react
 
 FastAPI:
 https://github.com/companyakis/fastapis
