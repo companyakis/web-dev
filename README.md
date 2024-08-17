@@ -1,13 +1,10 @@
-# Development (Not "React" anymore... Keep it simple. I'm not a pure frontend developer.) 
+# Development 
 
-Flask:
-https://github.com/companyakis/flasks101
+React:
+https://github.com/companyakis/react
 
-FastAPI:
+FastAPI & Streamlit:
 https://github.com/companyakis/fastapis
-
-Bootstrap:
-https://github.com/companyakis/bootstrapprojects
 
 HTML:
 https://github.com/companyakis/html
