@@ -1,9 +1,9 @@
-# Development 
+# Web Dev 
 
 React:
 https://github.com/companyakis/react
 
-FastAPI & Streamlit:
+FastAPI:
 https://github.com/companyakis/fastapis
 
 HTML:
