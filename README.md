@@ -3,6 +3,9 @@
 FastAPI:
 https://github.com/companyakis/fastapis
 
+Vue 101:
+https://github.com/companyakis/vue
+
 Streamlit Basics:
 https://github.com/companyakis/streamlit-basics
 
