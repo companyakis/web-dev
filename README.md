@@ -1,7 +1,7 @@
 # Web Dev 
 
-React:
-https://github.com/companyakis/react
+Flutter:
+https://github.com/companyakis/flutter-bootcamp-2024
 
 FastAPI:
 https://github.com/companyakis/fastapis
