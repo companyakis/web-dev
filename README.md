@@ -6,12 +6,6 @@ https://github.com/companyakis/react
 FastAPI:
 https://github.com/companyakis/fastapis
 
-Vue 101:
-https://github.com/companyakis/vue
-
-Flask 101:
-https://github.com/companyakis/flasks101
-
 Streamlit Basics:
 https://github.com/companyakis/streamlit-basics
 
