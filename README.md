@@ -1,13 +1,13 @@
 # Web Dev 
 
-React:
-https://github.com/companyakis/react
+Svelte:
+https://github.com/companyakis/svelte-js
 
 FastAPI:
 https://github.com/companyakis/fastapis
 
-Flet Mobile and Web:
-https://github.com/companyakis/flet-mobile-web
-
 HTML:
 https://github.com/companyakis/html
+
+React:
+https://github.com/companyakis/react
