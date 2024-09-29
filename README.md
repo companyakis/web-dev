@@ -3,7 +3,7 @@
 React:
 https://github.com/companyakis/react
 
-FlexBox-BoxModel:
+FlexBox:
 https://github.com/companyakis/flexbox
 
 FastAPI:
