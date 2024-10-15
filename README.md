@@ -3,6 +3,9 @@
 React:
 https://github.com/companyakis/react
 
+VanillaJS Web:
+https://github.com/companyakis/vanilla-js-web
+
 React ToDo App:
 https://github.com/companyakis/react-todo-app
 
