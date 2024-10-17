@@ -3,6 +3,9 @@
 React:
 https://github.com/companyakis/react
 
+React Formik and Yup User Register Project:
+https://github.com/companyakis/react-user-register
+
 VanillaJS Web:
 https://github.com/companyakis/vanilla-js-web
 
