@@ -12,6 +12,9 @@ https://github.com/companyakis/vanilla-js-web
 CSS Projects:
 https://github.com/companyakis/css-projects
 
+React Axios Project:
+https://github.com/companyakis/react-axios-project
+
 React ToDo App:
 https://github.com/companyakis/react-todo-app
 
