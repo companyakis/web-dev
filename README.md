@@ -3,20 +3,20 @@
 React:
 https://github.com/companyakis/react
 
-React Formik and Yup User Register Project:
-https://github.com/companyakis/react-user-register
+FastAPI:
+https://github.com/companyakis/fastapi2025
 
 VanillaJS Web:
 https://github.com/companyakis/vanilla-js-web
+
+React Formik and Yup User Register Project:
+https://github.com/companyakis/react-user-register
 
 CSS Projects:
 https://github.com/companyakis/css-projects
 
 React ToDo App:
 https://github.com/companyakis/react-todo-app
-
-FastAPI:
-https://github.com/companyakis/fastapis
 
 HTML:
 https://github.com/companyakis/html
