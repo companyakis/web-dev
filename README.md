@@ -1,13 +1,10 @@
 # Web Dev 
 
-Svelte 2025:
-....
-
 VanillaJS Web:
 https://github.com/companyakis/vanilla-js-web
 
-FastAPI:
-https://github.com/companyakis/fastapi2025
+Flask Web:
+https://github.com/companyakis/flask-web
 
 CSS Projects:
 https://github.com/companyakis/css-projects
