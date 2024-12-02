@@ -3,9 +3,6 @@
 VanillaJS Web:
 https://github.com/companyakis/vanilla-js-web
 
-Flask Web:
-https://github.com/companyakis/flask-web
-
 CSS Projects:
 https://github.com/companyakis/css-projects
 
