@@ -1,7 +1,7 @@
 # Web Dev 
 
-VanillaJS Web:
-https://github.com/companyakis/vanilla-js-web
+Vanilla JS Web plus TS:
+https://github.com/companyakis/vanilla-js-web-plus-ts
 
 CSS Projects:
 https://github.com/companyakis/css-projects
