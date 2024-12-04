@@ -1,5 +1,8 @@
 # Web Dev 
 
+FastAPI:
+https://github.com/companyakis/fastapi2025
+
 Vanilla JS Web plus TS:
 https://github.com/companyakis/vanilla-js-web-plus-ts
 
